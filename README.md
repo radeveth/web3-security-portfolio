@@ -4,10 +4,10 @@ This repository represents a selection of smart contract audit reports I've done
 
 ## Audits
 
-| Protocol                                    | Type                                                                            | Report link | Date      |
-| ------------------------------------------- | ------------------------------------------------------------------------------- | ----------- | --------- |
-| [Pxswap](https://www.pxswap.xyz/)           | NFT OTC Trading platform, the Future of NFT Finance                             |             | July 2023 |
-|                                             |                                                                                 |             |           |
+| Protocol                                    | Type                                                                            | Report link                                                                                            | Date      |
+| ------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------- |
+| [Pxswap](https://www.pxswap.xyz/)           | NFT OTC Trading platform, the Future of NFT Finance                             |  [Link](https://github.com/radeveth/private-audits/blob/main/reports/pxwap/pxswap-security-review.md)  | July 2023 |
+|                                             |                                                                                 |                                                                                                        |           |
 
 ## Contacts
 
