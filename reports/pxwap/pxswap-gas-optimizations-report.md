@@ -1,4 +1,13 @@
-### Gas Optimizations
+# Introduction
+Gas Optimization report of the **pxswap** protocol was done by Radev.
+
+# About **Radev**
+Radoslav Radev, or **Radev**, is an independent smart contract security researcher. Reach out on Twitter [@radev_eth](https://twitter.com/radev_eth).
+
+# About **pxswap**
+NFT OTC Trading platform, the Future of NFT Finance
+
+# Gas Optimizations Summary
 
 |Number|Issue|Instances|Total Gas Saved|
 |-|:-|:-:|:-:|
