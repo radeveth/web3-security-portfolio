@@ -7,7 +7,19 @@ Radoslav Radev, or **Radev**, is an independent smart contract security research
 # About **pxswap**
 NFT OTC Trading platform, the Future of NFT Finance
 
-# Gas Optimizations Summary
+# Executive summary
+
+### Overview
+
+|               |                                                                                                                                                   |
+| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Project Name  | pxswap                                                                                                                                            |
+| Repository    | https://github.com/pxswap-xyz/pxswap/tree/main                                                                                                    |
+| Commit hash	  | [4d20e98c5beb02934ae63ac174abe04227a53a0f](https://github.com/pxswap-xyz/pxswap/tree/4d20e98c5beb02934ae63ac174abe04227a53a0f)                    |
+| Website       | [Link](https://www.pxswap.xyz/)                                                                                                                   |
+| Twitter       | [Link](https://twitter.com/pxswap_xyz)                                                                                                            |
+
+### Gas Optimizations Summary
 
 |Number|Issue|Instances|Total Gas Saved|
 |-|:-|:-:|:-:|
