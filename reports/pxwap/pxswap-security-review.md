@@ -40,8 +40,10 @@ NFT OTC Trading platform, the Future of NFT Finance
 |               |                                                                                                                                                   |
 | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Project Name  | pxswap                                                                                                                                            |
-| Commit hash	  | 4d20e98c5beb02934ae63ac174abe04227a53a0f                                                                                                          |
+| Repository    | https://github.com/pxswap-xyz/pxswap/tree/main                                                                                                    |
+| Commit hash	  | [4d20e98c5beb02934ae63ac174abe04227a53a0f](https://github.com/pxswap-xyz/pxswap/tree/4d20e98c5beb02934ae63ac174abe04227a53a0f)                    |
 | Website       | [Link](https://www.pxswap.xyz/)                                                                                                                   |
+| Twitter       | [Link](https://twitter.com/pxswap_xyz)                                                                                                            |
 | Methods       | Manual review                                                                                                                                     |
 
 
