@@ -12,4 +12,5 @@ This repository represents a selection of smart contract audit reports I've done
 ## Contacts
 
 - Twitter - [@radev_eth](https://twitter.com/radev_eth)
+- Telegram - [@radev_eth](https://t.me/radev_eth)
 - Discord - rado#4903 (radev_dev)
