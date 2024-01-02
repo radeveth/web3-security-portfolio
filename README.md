@@ -2,11 +2,10 @@
 
 ## Table of Contents
  - [Introduction](#introduction)
- - [Private Smart Contract Security Reviews](#)
- - [Public Audit Contests](#)
- - [Book an audit](#bug-bounty)
- - [Contacts](#testimonials)
- - [Show your opinion](./FAQ.md)
+ - [Private Smart Contract Security Reviews](#private-smart-contract-security-reviews-private-audits)
+ - [Public Audit Contests](#public-audit-contests)
+ - [Book an audit](#book-an-audit)
+ - [Contacts](#contacts)
 
 ## Introduction
 
