@@ -8,7 +8,7 @@
  - [Contacts](#contacts)
 
 ## Introduction
-I am an experienced Smart Contract Researcher with **over 20 completed smart contract audits**. I'm available for web3 security consulting and **private security reviews**. Please reach out to me on Twitter (@radev_eth) or Telegram (radev_eth) if you're interested.
+I am an experienced Smart Contract Researcher with **over 20 completed smart contract audits**. I'm available for web3 security consulting and **private security reviews**. Please reach out to me on [Twitter (X)](https://twitter.com/radev_eth) (@radev_eth) or [Telegram](https://t.me/radev_eth) (radev_eth) if you're interested.
 
 ## Private Smart Contract Security Reviews (private audits)
 
@@ -42,7 +42,7 @@ I am an experienced Smart Contract Researcher with **over 20 completed smart con
 
 
 ## :hammer: Book an audit
-If you are a founder or engineer looking to get your smart contract protocol audited by a top-notch solo security researcher, you can contact me on [Twitter](https://twitter.com/radev_eth), [Telegram]((https://t.me/radev_eth), or Discord to discuss your needs and help you secure your project.
+If you are a founder or engineer looking to get your smart contract protocol audited by a top-notch solo security researcher, you can contact me on [Twitter](https://twitter.com/radev_eth), [Telegram](https://t.me/radev_eth), or Discord to discuss your needs and help you secure your project.
 
 **Once you contact me, I will:**
 1. Spend 2-3 hours looking for low-hanging fruits.
