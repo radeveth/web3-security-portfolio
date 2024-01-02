@@ -93,7 +93,7 @@ The ability for stakers to bypass the "Cannot Claim Reward When Paused" requirem
   }
 ```
 
-- finalizeReward() function inRewardVault.sol contract
+- `finalizeReward()` function inRewardVault.sol contract
 
 ```js
   function finalizeReward(
@@ -149,7 +149,7 @@ The ability for stakers to bypass the "Cannot Claim Reward When Paused" requirem
   }
 ```
 
-- `claimReward()' function in RewardVault.sol contract
+- `claimReward()` function in RewardVault.sol contract
 
 ```js
   function claimReward() external override whenNotPaused returns (uint256) {
@@ -200,10 +200,68 @@ Other
 
 # [M-02] Claiming accumulated rewards while the contract is underfunded can lead to a loss of rewards
 
+## Lines of code
+https://github.com/code-423n4/2023-08-chainlink/blob/main/src/rewards/RewardVault.sol#L623-L658
 
+## Impact
+Claiming accumulated rewards while the contract is underfunded can lead to a loss of rewards.
+
+## Proof of Concept
+Stakers can claim their rewards by calling the claimReward() function on the RewardVault.sol contract they wish to claim rewards from. The vault calculates the amount of rewards the staker has earned and transfers it from the RewardVault to the staker.
+
+Let's analyze the logic of `claimReward()` function:
+
+1. `claimReward()` function: This function allows a user to claim their reward.
+ - It first updates the reward per token if needed.
+ - It then calculates the reward for the staker, applies any multipliers, and then updates and transfers the reward to the user.
+2. `_updateRewardPerToken()` function: This function updates the reward per token for the community and the operator if not updated in the current block.
+3. `_calculatePoolsRewardPerToken()` function: This function calculates the reward per token for community and operators. It returns the reward per token values for the community, operator, and operator delegated.
+ - It retrieves the total principal amount staked in both community and operator staking pools and then calculates the reward per token for each.
+4. `_calculateVestedRewardPerToken()` function: This function calculates the reward per token for a specific reward bucket based on the time elapsed since the last reward was emitted and the total amount staked in the associated pool.
+ - If the total principal staked is 0, it just returns the current vestedRewardPerToken from the reward bucket.
+ - If no rewards have been emitted since the last update, it also just returns the current vestedRewardPerToken.
+ - Otherwise, it calculates the rewards earned per token based on the time elapsed and the reward bucket's emission rate.
+
+
+From all of this logic, the logic that we are most interested is how rewards are calculated and updated, particularly when totalPrincipal is 0.
+If totalPrincipal is 0, the rewards allocated during this period become unclaimable, thereby negatively affecting the stakers who join afterward.
+
+- `_calculateVestedRewardPerToken()` function:
+
+```js
+function _calculateVestedRewardPerToken(
+    RewardBucket memory rewardBucket,
+    uint256 totalPrincipal
+) private view returns (uint256) {
+    if (totalPrincipal == 0) return rewardBucket.vestedRewardPerToken;
+    ...
+}
+```
+The behavior can be characterized as:
+
+1. Prior to Any Stakes: If rewards are deposited into the contract when no staker has participated (totalPrincipal is zero), the _calculateVestedRewardPerToken function simply returns the existing vestedRewardPerToken value. This means the newly allocated rewards are not acknowledged. Subsequent stakers will not benefit from these particular rewards since the metric for rewards-per-token doesn't account for the new rewards.
+
+2. After All Stakers Exit: If all stakers retract their stakes and additional rewards are deposited afterward, the same issue arises.
+
+3. Outcome: The rewards essentially become "locked" inside the contract due to the non-updated vestedRewardPerToken value in scenarios where totalPrincipal is zero.
+
+**Implications:**
+1. Token Utility: The presence of locked rewards reduces the tokens' utility, potentially affecting the protocol's perceived trustworthiness.
+
+2. Economic Impact: New and returning stakers face an undeserved disadvantage, which may make the protocol less enticing to prospective participants.
+
+## Tools Used
+Manual Review
+
+## Recommended Mitigation Steps
+Consider reverting if there are insufficient LINK tokens available as rewards. This is the best immediate solution to the problem.
+
+## Assessed type
+Other
+
+---
 
 ## Low Issues
----
 
 ### <a name="L-01"></a>[L-01] RewardVault does not revert on zero staker amount in `claimReward()` function
 #### Overview:
@@ -317,7 +375,6 @@ require(combinedSlashAmount <= remainingSlashCapacity, "Slashing amount exceeds 
 
 
 ## Non Critical Issues
----
 
 ### <a name="NC-01"></a>[NC-01] Front Running Concern in the Unbonding Process
 #### Overview:
@@ -344,7 +401,6 @@ Consider to emit an events in important state changing functions.
 ---
 
 ## Suggestions
----
 
 ### <a name="S-01"></a>[S-01] Revert `claimReward()` if the msg.sender is not the staker or staking pool
 #### Overview
