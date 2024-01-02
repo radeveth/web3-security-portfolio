@@ -8,16 +8,18 @@
  - [Contacts](#contacts)
 
 ## Introduction
-I am an experienced Smart Contract Researcher with **over 20 completed smart contract audits**. I'm available for web3 security consulting and **private security reviews**. Please reach out to me on [Twitter (X)](https://twitter.com/radev_eth) (@radev_eth) or [Telegram](https://t.me/radev_eth) (radev_eth) if you're interested.
+I am an experienced Smart Contract Researcher with **over 20 completed smart contract audits**.
 
-## Private Smart Contract Security Reviews (private audits)
+I'm available for web3 security consulting and **private security reviews**. Please reach out to me on [Twitter (X)](https://twitter.com/radev_eth) (@radev_eth) or [Telegram](https://t.me/radev_eth) (radev_eth) if you're interested.
+
+## :hammer: Private Smart Contract Security Reviews (private audits)
 
 | Protocol                                    | Type                                                                            | Report link                                                                                            | Date      |
 | ------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------- |
 | [Pxswap](https://www.pxswap.xyz/)           | NFT OTC Trading platform                                                        |  [Security Review](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-security-review.md), [Gas-Optimizations](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-gas-optimizations-report.md)  | July 2023 |
 |                                             |                                                                                 |                                                                                                        |           |
 
-## Public Audit Contests
+## :hammer: Public Audit Contests
 
 | Contest                                                                                                       | Date             | Platform  | Report                                                             |
 | ------------------------------------------------------------------------------------------------------------- | ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------ |
