@@ -1,4 +1,4 @@
-# Cooler Sherlock Contest - Radev's Findings Report
+# Chainlink Staking v0.2 Code4rena Contest - Radev's Findings Report
 
 # Findings Summary
 
