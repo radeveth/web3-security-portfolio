@@ -48,9 +48,11 @@ If you are a founder or engineer looking to get your smart contract protocol aud
 **Once you contact me, I will:**
 1. Spend 2-3 hours looking for low-hanging fruits.
 2. Compile a table with all the findings.
-3. Provide the pre-audit to the prospect along with the quote.
-
-<img src="https://github.com/radeveth/private-audits/assets/88380154/e276ddc1-1121-4ff4-9931-ac593d9e0012" width="550"/>
+3. Provide the pre-audit. We will then discuss your needs and how I can help you.
+<img src="https://github.com/radeveth/private-audits/assets/88380154/e276ddc1-1121-4ff4-9931-ac593d9e0012" width="350"/>
+   
+5. Perform the audit.
+6. Deliver the final report and resolve any identified bugs.
 
 
 ## Contacts
