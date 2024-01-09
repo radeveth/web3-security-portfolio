@@ -17,6 +17,7 @@ I'm available for web3 security consulting and **private security reviews**. Ple
 | Protocol                                    | Type                                                                            | Report link                                                                                            | Date      |
 | ------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------- |
 | [Pxswap](https://www.pxswap.xyz/)           | NFT OTC Trading platform                                                        |  [Security Review](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-security-review.md), [Gas-Optimizations](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-gas-optimizations-report.md)  | July 2023 |
+| Undisclosed                                 |  DeFi, CLMMs	                                                                   | Soon                                                                                                   | January 2024 |
 |                                             |                                                                                 |                                                                                                        |           |
 
 ## :hammer: Public Audit Contests
