@@ -57,6 +57,13 @@ If you are a founder or engineer looking to get your smart contract protocol aud
 6. Deliver the final report and resolve any identified bugs.
 
 
+## :hammer: Services
+
+As I would like to provide the best and most client oriented experience, I propose multiple services in order to match your needs:
+- Pay-Per-Vulnerability (PPV) Audit
+- Fixed Price Audit
+- In House Security Researching
+
 ## Contacts
 
 - Twitter - [@radev_eth](https://twitter.com/radev_eth)
