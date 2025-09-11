@@ -2,8 +2,8 @@
 
 ## Table of Contents
  - [Introduction](#introduction)
- - [Private Smart Contract Security Reviews](#private-smart-contract-security-reviews)
- - [Public Audit Contests](#public-audit-contests)
+ - [Private Smart Contract Security Reviews](#hammer-private-smart-contract-security-reviews)
+ - [Public Audit Contests](#hammer-other-security-engagements)
  - [Contacts](#contacts)
 
 ## Introduction
