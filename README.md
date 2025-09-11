@@ -9,8 +9,6 @@
 ## Introduction
 I am an experienced Smart Contract Researcher with **over 40 completed smart contract audits**.
 
-I'm available for web3 security consulting and **private security reviews**. Please reach out to me on [Twitter (X)](https://twitter.com/radev_eth) (@radev_eth) or [Telegram](https://t.me/radev_eth) (radev_eth) if you're interested.
-
 ## :hammer: Private Smart Contract Security Reviews
 
 | **Id** | **Protocol**                                                                                                             | **Description**                            | **Report link**                                                                                                                                                                                                                                                             | **Date**       | **Firm**                                                           |
@@ -65,7 +63,7 @@ I'm available for web3 security consulting and **private security reviews**. Ple
 
 
 ## :v: Show your opinion
-Give a :star: if you like this project!
+Give a :star: if you like this portfolio!
 
 
 ## License
