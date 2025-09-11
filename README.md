@@ -2,23 +2,36 @@
 
 ## Table of Contents
  - [Introduction](#introduction)
- - [Private Smart Contract Security Reviews](#private-smart-contract-security-reviews-private-audits)
+ - [Private Smart Contract Security Reviews](#private-smart-contract-security-reviews)
  - [Public Audit Contests](#public-audit-contests)
- - [Book an audit](#book-an-audit)
  - [Contacts](#contacts)
 
 ## Introduction
-I am an experienced Smart Contract Researcher with **over 20 completed smart contract audits**.
+I am an experienced Smart Contract Researcher with **over 40 completed smart contract audits**.
 
 I'm available for web3 security consulting and **private security reviews**. Please reach out to me on [Twitter (X)](https://twitter.com/radev_eth) (@radev_eth) or [Telegram](https://t.me/radev_eth) (radev_eth) if you're interested.
 
-## :hammer: Private Smart Contract Security Reviews (private audits)
+## :hammer: Private Smart Contract Security Reviews
 
-| Protocol                                                                                                                 | Type                                                                            | Report link                                                                                                              | Date         |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| [SteakHut Finance - V2](https://www.steakhut.finance/) - private team audit with [Shieldify](https://www.shieldify.org/) | DeFi, Liquidity Provider, CLMMs                                                 | [Security Review](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/SteakHut-Security-Review.pdf) | January 2024 |
-| [Pxswap](https://www.pxswap.xyz/)                                                                                        | NFT OTC Trading platform                                                        | [Security Review](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-security-review.md), [Gas-Optimizations](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-gas-optimizations-report.md)    | July 2023 |
-| | | | |
+| **Id** | **Protocol**                                                                                                             | **Description**                            | **Report link**                                                                                                                                                                                                                                                             | **Date**       | **Firm**                                                           |
+| ------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------ |
+| 17     | [Colb Finance](https://www.colb.finance/)                                                                                | RWA, Pre-IPO, Vault                        | Soon                                                                                                                                                                                                                                                                        | September 2025 | [Shieldify Security](https://www.shieldify.org/)                   |
+| 16     | Revolver                                                                                                                 | GameFi                                     | Soon                                                                                                                                                                                                                                                                        | September 2025 | [Shieldify Security](https://www.shieldify.org/)                   |
+| 15     | SSR Token                                                                                                                | LayerZero, Omnichain Fungible Token (OFT)  | Soon                                                                                                                                                                                                                                                                        | September 2025 | [Shieldify Security](https://www.shieldify.org/)                   |
+| 14     | [Eth OS](https://ethos.vision/)                                                                                          | -                                          | Soon                                                                                                                                                                                                                                                                        | September 2025 | [CD Security](https://cdsecurity.site/)                            |
+| 13     | Manifest Finance                                                                                                         | RWA                                        | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/ManifestFinance-security-review_2025-08-26.pdf)                                                                                                                                                | August 2025    | [Kann Audits](https://kannaudits.com/)                             |
+| 12     | [Eth OS - Raise](https://ethos.vision/)                                                                                  | -                                          | Soon                                                                                                                                                                                                                                                                        | August 2025    | [CD Security](https://cdsecurity.site/)                            |
+| 11     | [Nuon](https://nuon.fi/)                                                                                                 | Stablecoin that protects against inflation | Soon                                                                                                                                                                                                                                                                        | March 2025     | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 10     | [MaxAPY](https://app.maxapy.io/)                                                                                         | Cross-chain vaults                         | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/MaxAPY-second-security-review.pdf)                                                                                                                                                              | March 2025     | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 9      | [Spectra](https://www.spectra.finance/)                                                                                  | Oracle                                     | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/Spectra-second-security-review.pdf)                                                                                                                                                             | February 2025  | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 8      | [MaxAPY](https://app.maxapy.io/)                                                                                         | Cross-chain vaults                         | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/MaxAPY-security-review.pdf)                                                                                                                                                                     | January 2025   | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 7      | [Index.Fun](https://index.fun/)                                                                                          | Betting System                             | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/Index.fun-security-review.pdf)                                                                                                                                                                  | January 2025   | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 6      | [KaiAura](https://kaiaura.finance/)                                                                                      | Yield                                      | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/KaiAura-Security-Review.pdf)                                                                                                                                                                    | December 2024  | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 5      | [Kayen](https://www.kayen.org/)                                                                                          | Fan Token DEX                              | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/Kayen-Security-Review.pdf)                                                                                                                                                                      | July 2024      | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 4      | [Spectra](https://www.spectra.finance/)                                                                                  | GMX Market Token 4626 Wrapper              | [📄](https://github.com/RezolvSolutions/Audits/blob/main/reports/pdf-format/Spectra-Security-Review.pdf)                                                                                                                                                                    | June 2024      | [Rezolv Solutions](https://www.rezolvsolutions.com/), Lead Auditor |
+| 3      | [Sweepr](https://www.sweepr.finance/)                                                                                    | NFT Liquidity Flywheel                     | [📄](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr-report.pdf)                                                                                                                                                                                      | June 2024      | [CD Security](https://cdsecurity.site/)                            |
+| 2      | [SteakHut Finance - V2](https://www.steakhut.finance/) – private team audit with [Shieldify](https://www.shieldify.org/) | DeFi, Liquidity Provider, CLMMs            | [Security Review](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/SteakHut-Security-Review.pdf)                                                                                                                                                    | January 2024   | [Shieldify Security](https://www.shieldify.org/)                   |
+| 1      | [Pxswap](https://www.pxswap.xyz/)                                                                                        | NFT OTC Trading platform                   | [Security Review](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-security-review.md), [Gas-Optimizations](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/pxwap/pxswap-gas-optimizations-report.md) | July 2023      | Solo                                                               |
 
 ### :hammer: Other Security Engagements
 | Engagement                                                                                                       | Date             | Report                                                             |
@@ -44,28 +57,6 @@ I'm available for web3 security consulting and **private security reviews**. Ple
 | [Arrakis](https://audits.sherlock.xyz/contests/86)                                                            | July 2023        | [Link](https://github.com/radeveth/web3-security-portfolio)
 | [Unitas Protocol](https://audits.sherlock.xyz/contests/73)                                                    | July, 2023       | [Link](https://github.com/radeveth/web3-security-portfolio/blob/main/contest-audits/unitas-protocol-report.md)                 |
 |                                                                                                               |                  |           |                                                                                                                                |
-
-
-## :hammer: Book an audit
-If you are a founder or engineer looking to get your smart contract protocol audited by a top-notch solo security researcher, you can contact me on [Twitter](https://twitter.com/radev_eth), [Telegram](https://t.me/radev_eth), or Discord to discuss your needs and help you secure your project.
-
-**Once you contact me, I will:**
-1. Spend 2-3 hours looking for low-hanging fruits.
-2. Compile a table with all the findings.
-3. Provide the pre-audit. We will then discuss your needs and how I can help you.
-<img src="https://github.com/radeveth/private-audits/assets/88380154/e276ddc1-1121-4ff4-9931-ac593d9e0012" width="350"/>
-   
-5. Perform the audit.
-6. Deliver the final report and resolve any identified bugs.
-
-
-## :hammer: Services
-
-As I would like to provide the best and most client oriented experience, I propose multiple services in order to match your needs:
-- Pay-Per-Vulnerability (PPV) Audit
-- Fixed Price Audit
-- In House Security Researching
-
 ## Contacts
 
 - Twitter - [@radev_eth](https://twitter.com/radev_eth)
