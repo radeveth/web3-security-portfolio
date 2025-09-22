@@ -32,7 +32,7 @@
 | 2 | [SteakHut Finance - V2](https://www.steakhut.finance/) | DeFi, Liquidity Provider, CLMMs | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/SteakHut-Security-Review.pdf) | January 2024 | [Shieldify Security](https://www.shieldify.org/) |
 | 1 | [Pxswap](https://www.pxswap.xyz/) | NFT OTC Trading platform | [📄](http://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/reports/pxswap-security-review.md) | July 2023 | Solo Audit |
 
-### ⚔️ Public Competitions
+## ⚔️ Public Competitions
 
 | **Protocol** | Description | Language | Ranking |
 | --- | --- | --- | --- |
