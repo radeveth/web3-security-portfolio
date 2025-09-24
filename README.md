@@ -14,6 +14,8 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
+| 19 | Undisclosed |  | Soon | September 2025 | |
+| 18 | Undisclosed | Vault-based asset allocation via adapters | Soon | September 2025 | |
 | 17 | [Colb Finance](https://www.colb.finance/) | RWA, Pre-IPO, Vault | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 16 | [Souls.club - Abstract](https://souls.club//) | Game built on zkSync with VRF-based randomness | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 15 | [Eth OS](https://ethos.vision/) | DeFi's largest gamified experiment: a recursive flywheel of seven composable mechanics, ERC-20, Airdrop | Soon | September 2025 | [CD Security](https://cdsecurity.site/), Lead Auditor |
