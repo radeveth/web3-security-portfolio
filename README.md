@@ -14,12 +14,12 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
-| 19 | Undisclosed |  | Soon | September 2025 | |
+| 19 | [Colb Finance](https://www.colb.finance/) | USC Engine, Flash Minting | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 18 | Undisclosed | Vault-based asset allocation via adapters | Soon | September 2025 | |
 | 17 | [Colb Finance](https://www.colb.finance/) | RWA, Pre-IPO, Vault | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
-| 16 | [Souls.club - Abstract](https://souls.club//) | Game built on zkSync with VRF-based randomness | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
+| 16 | [Souls.club - Abstract](https://souls.club//) | Game built on zkSync with VRF-based randomness | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/SolusClub-Revolver-Security-Review.pdf) | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 15 | [Eth OS](https://ethos.vision/) | DeFi's largest gamified experiment: a recursive flywheel of seven composable mechanics, ERC-20, Airdrop | Soon | September 2025 | [CD Security](https://cdsecurity.site/), Lead Auditor |
-| 14 | Undisclosed | LayerZero, Omnichain Fungible Token (OFT) | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
+| 14 | SSR Token | LayerZero, Omnichain Fungible Token (OFT) | - | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 13 | Manifest Finance | RWA | [📄](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/ManifestFinance-security-review_2025-08-26.pdf) | August 2025 | [Kann Audits](https://kannaudits.com/), Lead Auditor |
 | 12 | [Eth OS - Raise](https://ethos.vision/) | Time-limited token sale, Liquidity Bootstrapping Pool (LBP), ETH Investing | Soon | August 2025 | [CD Security](https://cdsecurity.site/), Lead Auditor |
 | 11 | [Nuon](https://nuon.fi/) | Staking, Governance, Stablecoin that Protects Against Inflation | [📄](https://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/reports/Nuon-security-audit.pdf) | March 2025 | [Rezolv Solutions](https://www.rezolvsolutions.com/), Founding Lead Auditor |
