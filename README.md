@@ -36,12 +36,12 @@
 
 ## ⚔️ Public Competitions
 
-| **Protocol** | Description | Language | Ranking |
+| **Protocol** | Description | Language | Highlights |
 | --- | --- | --- | --- |
-| [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065?filter=questions) | Market-neutral synthetic dollar, Yield opportunities in OTC | Solidity | 🥇 |
+| [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065?filter=questions) | Market-neutral synthetic dollar, Yield opportunities in OTC | Solidity | 🥇 (100% bugs coverage) |
 | [DODO Cross-Chain DEX](https://audits.sherlock.xyz/contests/991?filter=questions) | ZetaChain’s cross-chain infrastructure | Solidity | Top 10 |
-| [Gamma Rewarder](https://audits.sherlock.xyz/contests/496?filter=questions) | Liquidity management, Brevis ZK coprocessor, Liquidity positions | Solidity | 🥇 (with MaslarovK) |
-| [LoopFi](https://code4rena.com/audits/2024-05-loopfi) | Lending market, Liquid Restaking Tokens (LRT), Yield exposure | Solidity | 🥇 |
+| [Gamma Rewarder](https://audits.sherlock.xyz/contests/496?filter=questions) | Liquidity management, Brevis ZK coprocessor, Liquidity positions | Solidity | 🥇 (100% bugs coverage; with MaslarovK) |
+| [LoopFi](https://code4rena.com/audits/2024-05-loopfi) | Lending market, Liquid Restaking Tokens (LRT), Yield exposure | Solidity | 100% bugs coverage |
 | [Ondo Finance](https://code4rena.com/audits/2024-03-ondo-finance) | Institutional-Grade Finance | Solidity | Top 10 |
 | [Party Protocol](https://code4rena.com/audits/2023-10-party-protocol) | Protocol for group coordination | Solidity | Top 10 |
 
