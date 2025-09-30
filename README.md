@@ -14,6 +14,7 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
+| 20 | [Honeypot Finance](https://honeypotfinance.xyz/) | NFT Staking | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 19 | [Colb Finance](https://www.colb.finance/) | USC Engine, Flash Minting | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 18 | Undisclosed | Vault-based asset allocation via adapters | Soon | September 2025 | |
 | 17 | [Colb Finance](https://www.colb.finance/) | RWA, Pre-IPO, Vault | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
