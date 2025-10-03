@@ -14,6 +14,8 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
+| 22 | Undisclosed | - | - | October 2025 | - |
+| 21 | Undisclosed | - | - | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 20 | [Honeypot Finance](https://honeypotfinance.xyz/) | NFT Staking | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 19 | [Colb Finance](https://www.colb.finance/) | USC Engine, Flash Minting | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 18 | [Neko.hi](https://www.neko.fun/) | MorphoV2 Fork, Vault-based asset allocation via adapters - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | [📄](https://github.com/SB-Security/audits/blob/master/reports/private/Neko.hl%20-%20Security%20Review.pdf) | September 2025 | [SB Security](https://sbsecurity.net/) |
