@@ -14,14 +14,15 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
+| 25 | Undisclosed | - | - | October 2025 | - |
 | 24 | Undisclosed | - | - | October 2025 | - |
-| 23 | Undisclosed | - | - | October 2025 | - |
-| 22 | [Colb Finance - USC OffRamp](https://www.colb.finance/) | RWA, Pre-IPO, USC OffRamp | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
-| 21 | [Aborean Finance](https://x.com/AboreanFi), Commits Review | DEX, [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
-| 20 | [Honeypot Finance](https://honeypotfinance.xyz/) | ERC-20, ERC-721, NFT, Staking | [📄](reports/Honeypot-Finance-NFTStaking-Security-Review.pdf) | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
-| 19 | [Colb Finance - USC Engine](https://www.colb.finance/) | USC Engine, Flash Minting | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
-| 18 | [Neko.hi](https://www.neko.fun/) | MorphoV2 Fork, Vault-based asset allocation via adapters - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | [📄](https://github.com/SB-Security/audits/blob/master/reports/private/Neko.hl%20-%20Security%20Review.pdf) | September 2025 | [SB Security](https://sbsecurity.net/) |
-| 17 | [Colb Finance - Vault](https://www.colb.finance/) | RWA, Pre-IPO, Vault | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 23 | [Colb Finance - USC OffRamp](https://www.colb.finance/) | RWA, Pre-IPO, USC OffRamp | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 22 | [Aborean Finance](https://x.com/AboreanFi), Commits Review | DEX, [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 21 | [Honeypot Finance](https://honeypotfinance.xyz/) | ERC-20, ERC-721, NFT, Staking | [📄](reports/Honeypot-Finance-NFTStaking-Security-Review.pdf) | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 20 | [Colb Finance - USC Engine](https://www.colb.finance/) | USC Engine, Flash Minting | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 19 | [Neko.hi](https://www.neko.fun/) | MorphoV2 Fork, Vault-based asset allocation via adapters - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | [📄](https://github.com/SB-Security/audits/blob/master/reports/private/Neko.hl%20-%20Security%20Review.pdf) | September 2025 | [SB Security](https://sbsecurity.net/) |
+| 18 | [Colb Finance - Vault](https://www.colb.finance/) | RWA, Pre-IPO, Vault | Soon | September 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 17 | [Click.Game](https://fairplay.trade/) | Minesweeper - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | [Report](/reports/private/Fairplay%20-%20Security%20Review.pdf) | September 2025 | [SB Security](https://sbsecurity.net/) |
 | 16 | [Souls.club - Abstract](https://souls.club//) | Game built on zkSync with VRF-based randomness, [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/SolusClub-Revolver-Security-Review.pdf) | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 15 | [Eth OS](https://ethos.vision/) | DeFi's largest gamified experiment: a recursive flywheel of seven composable mechanics, ERC-20, Airdrop | Soon | September 2025 | [CD Security](https://cdsecurity.site/), Lead Auditor |
 | 14 | SSR Token | LayerZero, Omnichain Fungible Token (OFT) | - | September 2025 | [Shieldify Security](https://www.shieldify.org/) |
