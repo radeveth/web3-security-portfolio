@@ -14,6 +14,7 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
+| 24 | Undisclosed | - | - | October 2025 | - |
 | 23 | Undisclosed | - | - | October 2025 | - |
 | 22 | [Colb Finance - USC OffRamp](https://www.colb.finance/) | RWA, Pre-IPO, USC OffRamp | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 21 | [Aborean Finance](https://x.com/AboreanFi), Commits Review | DEX, [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
