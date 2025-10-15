@@ -14,9 +14,10 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
+| 28 | Undisclosed | - | - | October 2025 | - |
 | 27 | Undisclosed | - | - | October 2025 | - |
-| 26 | Undisclosed | - | - | October 2025 | - |
-| 25 | Undisclosed | - | - | October 2025 | - |
+| 26 | Undisclosed | [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [SB Security](https://sbsecurity.net/) |
+| 25 | [AERO Strategy Contracts](https://bytecodecollective.xyz/) | Fee-on-transfer, Routing, Revenue-Splitting, veNFTs, Automation | - | October 2025 | - |
 | 24 | [DragonSwap](https://dragonswap.app/) | Staking Rewards with Marketplace, Oracle | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
 | 23 | [Colb Finance - USC OffRamp](https://www.colb.finance/) | RWA, Pre-IPO, USC OffRamp | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 22 | [Aborean Finance](https://x.com/AboreanFi), Commits Review | DEX, [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
