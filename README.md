@@ -14,9 +14,9 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
-| 28 | [LayerZero](https://layerzero.network/) | Hyperliquid Composer with Fee Abstraction - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
-| 27 | [Pudgy Strategy](https://pudgystrategy.net/) | Automated NFT trading vault - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
-| 26 | Gacha.Game | [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [SB Security](https://sbsecurity.net/) |
+| 28 | [LayerZero](https://layerzero.network/) | Hyperliquid Composer with Fee Abstraction and Precompiles - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
+| 27 | [Pudgy Strategy](https://pudgystrategy.net/) | Automated NFT Trading Vault - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 26 | [Gacha.Game](https://pull.gacha.game/play/pulls) | NFT-based Marketplace - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | October 2025 | [SB Security](https://sbsecurity.net/) |
 | 25 | [AERO Strategy Contracts](https://bytecodecollective.xyz/) | Fee-on-transfer, Routing, Revenue-Splitting, veNFTs, Automation | Soon | October 2025 | - |
 | 24 | [DragonSwap](https://dragonswap.app/) | Staking Rewards with Marketplace, Oracle | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
 | 23 | [Colb Finance - USC OffRamp](https://www.colb.finance/) | RWA, Pre-IPO, USC OffRamp | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
