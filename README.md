@@ -15,7 +15,7 @@
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Firm** |
 | --- | --- | --- | --- | --- | --- |
 | 32 | Undisclosed | - | - | November 2025 | - |
-| 31 | [Spellborne](https://www.spellborne.gg/) | - | - | November 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
+| 31 | [Spellborne](https://www.spellborne.gg/) | Linear-Vesting Merkle Airdrop - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | - | November 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 30 | [Yo Protocol](https://www.yo.xyz/) | ERC-4626 yield vault | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
 | 29 | [Harmonix Finance - Hyperliquid](https://harmonix.fi/) | Vesting, Distribution, Merkle, Tokenization - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/), Lead Auditor |
 | 28 | [LayerZero](https://layerzero.network/) | Hyperliquid Composer with Fee Abstraction and Precompiles - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
