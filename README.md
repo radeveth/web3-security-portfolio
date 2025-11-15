@@ -14,6 +14,8 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
+| 36 | Undisclosed |  |  | November 2025 | |
+| 35 | Undisclosed |  |  | November 2025 | |
 | 34 | **[LayerZero](https://layerzero.network/)** | OVault Yieldxyz | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
 | 33 | Undisclosed |  |  | November 2025 | |
 | 32 | [Harmonix Finance - Hyperliquid](https://harmonix.fi/) | Upgradeable whitelist-priority token sale, EIP-2612 Permit - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
