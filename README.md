@@ -14,15 +14,15 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| 36 | Undisclosed |  |  | November 2025 | |
-| 35 | Undisclosed |  |  | November 2025 | |
-| 34 | **[LayerZero](https://layerzero.network/)** | OVault Yieldxyz | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
-| 33 | Undisclosed |  |  | November 2025 | |
+| 36 | [Colb Finance - Liquids](https://www.colb.finance/) |  |  | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
+| 35 | **[LayerZero - EUROP OFT](https://layerzero.network/)** | EUROP OFT (mint burn adapter with fee) | | November 2025 | [Paladin Security](https://paladinsec.co/) |
+| 34 | **[LayerZero - OVault](https://layerzero.network/)** | OVault Yieldxyz | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
+| 33 | SwitchX Contracts |  |  | November 2025 | |
 | 32 | [Harmonix Finance - Hyperliquid](https://harmonix.fi/) | Upgradeable whitelist-priority token sale, EIP-2612 Permit - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 31 | [Spellborne](https://www.spellborne.gg/) | ERC721C NFT with Royalty Enforcement, Token Linear-Vesting - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Season2-Airdrop-Security-Review.pdf) | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 30 | **[Yo Protocol](https://www.yo.xyz/)** | ERC-4626 yield vault | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
 | 29 | [Harmonix Finance - Hyperliquid](https://harmonix.fi/) | Vesting, Distribution, Merkle, Tokenization - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Shieldify Security](https://www.shieldify.org/) |
-| 28 | **[LayerZero](https://layerzero.network/)** | Hyperliquid Composer with Fee Abstraction and Precompiles - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
+| 28 | **[LayerZero - Hyperliquid](https://layerzero.network/)** | Hyperliquid Composer with Fee Abstraction and Precompiles - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | October 2025 | [Paladin Security](https://paladinsec.co/) |
 | 27 | [Pudgy Strategy](https://pudgystrategy.net/) | Automated NFT Trading Vault, ERC20 - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PudgyStrategy-Security-Review.pdf) | October 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 26 | [Gacha.Game](https://pull.gacha.game/play/pulls) | Gamified Collectibles Marketplace - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | [📄](https://github.com/SB-Security/audits/blob/master/reports/Gacha-Security-Review.pdf) | October 2025 | [SB Security](https://sbsecurity.net/) |
 | 25 | [AERO Strategy Contracts](https://bytecodecollective.xyz/) | Fee-on-transfer, Routing, Revenue-Splitting, veNFTs, Automation | Soon | October 2025 | [CD Security](https://cdsecurity.site/) |
