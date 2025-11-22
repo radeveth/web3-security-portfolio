@@ -14,10 +14,11 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
+| 37 | Undisclosed | - | - | November 2025 | - |
 | 36 | [Colb Finance - Liquids](https://www.colb.finance/) |  |  | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 35 | **[LayerZero - EUROP OFT](https://layerzero.network/)** | EUROP OFT (mint burn adapter with fee) | | November 2025 | [Paladin Security](https://paladinsec.co/) |
 | 34 | **[LayerZero - OVault](https://layerzero.network/)** | OVault Yieldxyz | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
-| 33 | SwitchX Contracts |  |  | November 2025 | |
+| 33 | SwitchX Contracts | Modular AMM, Liquidity manager, Concentrated-liquidity vault system | Soon | November 2025 | [33 Audits](https://www.33audits.xyz/) |
 | 32 | [Harmonix Finance - Hyperliquid](https://harmonix.fi/) | Upgradeable whitelist-priority token sale, EIP-2612 Permit - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 31 | [Spellborne](https://www.spellborne.gg/) | ERC721C NFT with Royalty Enforcement, Token Linear-Vesting - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Spellborne-Season2-Airdrop-Security-Review.pdf) | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 30 | **[Yo Protocol](https://www.yo.xyz/)** | ERC-4626 yield vault | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
