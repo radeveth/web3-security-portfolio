@@ -14,7 +14,8 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| 38 | Undisclosed | - | - | November 2025 | [Paladin Security](https://paladinsec.co/) |
+| 39 | Undisclosed | - | - | November 2025 | [Paladin Security](https://paladinsec.co/) |
+| 38 | [Juicebox](https://juicebox.money/) | Uniswap V4 Hook | - | November 2025 | - |
 | 37 | Undisclosed | - | - | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 36 | [Colb Finance - Liquids](https://www.colb.finance/) |  |  | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 35 | **[LayerZero - EUROP OFT](https://layerzero.network/)** | EUROP OFT (mint burn adapter with fee) | | November 2025 | [Paladin Security](https://paladinsec.co/) |
