@@ -14,11 +14,11 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| 39 | Undisclosed | - | - | November 2025 | [Paladin Security](https://paladinsec.co/) |
-| 38 | [Juicebox](https://juicebox.money/) | Uniswap V4 Hook | - | November 2025 | - |
-| 37 | Undisclosed | - | - | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
-| 36 | [Colb Finance - Liquids](https://www.colb.finance/) |  |  | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
-| 35 | **[LayerZero - EUROP OFT](https://layerzero.network/)** | EUROP OFT (mint burn adapter with fee) | | November 2025 | [Paladin Security](https://paladinsec.co/) |
+| 39 | [Juicebox](https://juicebox.money/) | Uniswap V4 Hook | - | December 2025 | - |
+| 38 | Undisclosed | - | - | November - December 2025 | [Paladin Security](https://paladinsec.co/) |
+| 37 | [Abster](https://www.abster.xyz/) | GameFi - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
+| 36 | [Colb Finance - Liquids](https://www.colb.finance/) | RWAs, Pre-IPO, Liquids	 | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
+| 35 | **[LayerZero - EUROP OFT](https://layerzero.network/)** | EUROP OFT (mint burn adapter with fee) | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
 | 34 | **[LayerZero - OVault](https://layerzero.network/)** | OVault Yieldxyz | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
 | 33 | SwitchX Contracts | Modular AMM, Liquidity manager, Concentrated-liquidity vault system | Soon | November 2025 | [33 Audits](https://www.33audits.xyz/) |
 | 32 | [Harmonix Finance - Hyperliquid](https://harmonix.fi/) | Upgradeable whitelist-priority token sale, EIP-2612 Permit - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
