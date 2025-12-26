@@ -14,8 +14,9 @@
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| 39 | [Juicebox](https://juicebox.money/) | Uniswap V4 Hook | - | December 2025 | - |
-| 38 | Undisclosed | - | - | November - December 2025 | [Paladin Security](https://paladinsec.co/) |
+| 40 | [Tollan Universe - Abstract](https://hub.tollan.io/) | GameFi - Elemental affinities using Proof of Play’s vRNG | [📄]([reports/TollanUniverse-Security-Review.pdf](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/TollanUniverse-Security-Review.pdf)) | December 2025 | [Shieldify Security](https://www.shieldify.org/) |
+| 39 | [Juicebox](https://juicebox.money/) | Uniswap V3 LP Split Hook | Soon | December 2025 | - |
+| 38 | [Juicebox](https://juicebox.money/) | Uniswap V4 Hook | Soon | December 2025 | - |
 | 37 | [Abster](https://www.abster.xyz/) | GameFi - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 36 | [Colb Finance - Liquids](https://www.colb.finance/) | RWAs, Pre-IPO, Liquids	 | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 35 | **[LayerZero - EUROP OFT](https://layerzero.network/)** | EUROP OFT (mint burn adapter with fee) | Soon | November 2025 | [Paladin Security](https://paladinsec.co/) |
