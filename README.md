@@ -6,14 +6,16 @@
   <tr>
     <td align="center">
       <a href="https://layerzero.network/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/LAYERZERO.png" height="45" />
+        <img src="https://avatars.githubusercontent.com/u/90789833?s=200&v=4" height="45" />
       </a><br/>
+      <strong>LayerZero</strong><br/>
       <img src="https://img.shields.io/badge/-55B%2B_Total_Bridge_Volume-5924e1?style=flat" />
     </td>
     <td align="center">
       <a href="https://ethena.fi/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/ETHENA.png" height="45" />
+        <img src="https://avatars.githubusercontent.com/u/130019143?s=200&v=4" height="45" />
       </a><br/>
+      <strong>Ethena</strong><br/>
       <img src="https://img.shields.io/badge/-$14B+_TVL-5924e1?style=flat" />
     </td>
     <td align="center">
@@ -44,8 +46,9 @@
     </td>
     <td align="center">
       <a href="https://juicebox.money/" target="_blank">
-        <img src="https://juicebox.money/_next/static/media/juice-logo-full_white.b786ee4b.svg" height="28" />
+        <img src="https://avatars.githubusercontent.com/u/77952883?s=200&v=4" height="28" />
       </a><br/>
+      <strong>Juicebox</strong><br/>
       <img src="https://img.shields.io/badge/-$15M+_TVL-5924e1?style=flat" />
     </td>
     <td align="center">
