@@ -1,14 +1,73 @@
 # Radev's Smart Contract Security Portfolio
 
-## ✅ Trusted By:
+## ✅ Highlight Audits:
 
-[Spectra](https://www.spectra.finance/), [MaxAPY](https://app.maxapy.io/), [Nuon](https://nuon.fi/), [Index.Fun](https://index.fun/), [KaiAura](https://kaiaura.finance/), [Kayen](https://www.kayen.org/), and many more.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://layerzero.network/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/LAYERZERO.png" height="45" />
+      </a><br/>
+      <img src="https://img.shields.io/badge/-55B%2B_Total_Bridge_Volume-5924e1?style=flat" />
+    </td>
+    <td align="center">
+      <a href="https://ethena.fi/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daneided/web3-logos/main/logos/ETHENA.png" height="45" />
+      </a><br/>
+      <img src="https://img.shields.io/badge/-$14B+_TVL-5924e1?style=flat" />
+    </td>
+    <td align="center">
+      <a href="https://algebra.finance/" target="_blank">
+        <img src="https://docs.algebra.finance/algebra-integral-documentation/~gitbook/image?url=https%3A%2F%2F651545192-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FQ0xXWotbDRlc7WzSWZQV%252Ficon%252Fxg9MNapuZeqMCAq5NKCJ%252Flogo.png%3Falt%3Dmedia%26token%3D060c9496-1462-4f17-8b88-034eea5da7c7&width=32&dpr=1&quality=100&sign=cb158d0&sv=2" height="45" />
+      </a><br/>
+      <strong>Algebra Finance</strong><br/>
+      <img src="https://img.shields.io/badge/-$240M+_TVL-5924e1?style=flat" />
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.yo.xyz/" target="_blank">
+        <img src="https://www.yo.xyz/images/logo-green.svg" height="28" />
+      </a><br/>
+      <img src="https://img.shields.io/badge/-$62M+_TVL-5924e1?style=flat" />
+    </td>
+    <td align="center">
+      <a href="https://www.spectra.finance/" target="_blank">
+      <img src="http://img.paragraph.com/cdn-cgi/image/format=auto,width=96,quality=90/https://storage.googleapis.com/papyrus_images/c8eb5f4ec99c26f75554288a166754df4e435be2b9031a18d20f91c542498cb4.png" height="28" />
+      </a><br/>
+      <strong>Spectra</strong><br/>
+      <img src="https://img.shields.io/badge/-$100M+_TVL-5924e1?style=flat" />
+    </td>
+    <td align="center">
+      <a href="https://juicebox.money/" target="_blank">
+        <img src="https://juicebox.money/_next/static/media/juice-logo-full_white.b786ee4b.svg" height="28" />
+      </a><br/>
+      <img src="https://img.shields.io/badge/-$15M+_TVL-5924e1?style=flat" />
+    </td>
+    <td align="center">
+      <a href="https://index.fun/" target="_blank">
+        <img src="https://framerusercontent.com/images/JXv04l9wMMnclPFfkoILPE6tnkk.png?scale-down-to=512&width=1463&height=336" height="28" />
+      </a><br/>
+      <img src="https://img.shields.io/badge/-$20M+_TVL-5924e1?style=flat" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+and many more...
+</p>
 
 ## 🤝 Contacts
 
 - Twitter - [@radev_eth](https://twitter.com/radev_eth)
 - Telegram - [@radev_eth](https://t.me/radev_eth)
 - Discord - rado#4903 (radev_dev)
+
+<p></p>
 
 ## ⚔️ Private Smart Contract Security Reviews
 
@@ -58,6 +117,8 @@
 | 2 | [SteakHut Finance - V2](https://www.steakhut.finance/) | DeFi, Liquidity Provider, CLMMs | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/SteakHut-Security-Review.pdf) | January 2024 | [Shieldify Security](https://www.shieldify.org/) |
 | 1 | [Pxswap](https://www.pxswap.xyz/) | NFT OTC Trading platform | [📄](http://github.com/radeveth/web3-security-portfolio/blob/main/private-audits/reports/pxswap-security-review.md) | July 2023 | Solo Audit |
 
+<p></p>
+
 ## ⚔️ Public Competitions
 
 | **Protocol** | Description | Language | Highlights |
@@ -69,7 +130,9 @@
 | [Ondo Finance](https://code4rena.com/audits/2024-03-ondo-finance) | Institutional-Grade Finance | Solidity | Top 10 |
 | [Party Protocol](https://code4rena.com/audits/2023-10-party-protocol) | Protocol for group coordination | Solidity | Top 10 |
 
-And over 20 more contests.
+<p>And over 20 more contests.</p>
+
+<p></p>
 
 ## :v: Show your opinion
 
