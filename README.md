@@ -76,7 +76,7 @@ and many more...
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| 43 | FortuneFi Contracts | Decentralized Perpetual Lottery System built on Base, Yield Generation, Chainlink VRF, NFTs | Soon | December 2025 | [33 Audits](https://www.33audits.xyz/) |
+| 43 | FortuneFi Contracts | Decentralized Perpetual Lottery System built on Base, Yield Generation, Chainlink VRF, NFTs | Soon | December 2025 - January 2026 | [33 Audits](https://www.33audits.xyz/) |
 | **42** | **[Algebra Finance](https://algebra.finance/)** | - | Soon | December 2025 | [Paladin Security](https://paladinsec.co/) |
 | **41** | **[Ethena Labs](https://ethena.fi/)** | **Hyperliquid Distribution - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade)** | Soon | December 2025 | [Paladin Security](https://paladinsec.co/) |
 | 40 | [Tollan Universe - Abstract](https://hub.tollan.io/) | GameFi - Elemental affinities using Proof of Play’s vRNG | [📄]([reports/TollanUniverse-Security-Review.pdf](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/TollanUniverse-Security-Review.pdf)) | December 2025 | [Shieldify Security](https://www.shieldify.org/) |
