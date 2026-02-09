@@ -25,6 +25,13 @@
       <strong>Algebra Finance</strong><br/>
       <img src="https://img.shields.io/badge/-$240M+_TVL-5924e1?style=flat" />
     </td>
+    <td align="center" width="25%">
+      <a href="https://blackhole.xyz/" target="_blank">
+        <img src="https://docs.blackhole.xyz/~gitbook/image?dpr=4&quality=100&sign=bcbed26a&sv=2&url=https%3A%2F%2F231591381-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4ai8QkCKA9lGQuDBy6J0%252Fuploads%252FULcYyqrd5k1F7FzzU3mK%252FGroup%25203106.png%3Falt%3Dmedia%26token%3Df1a69542-bb4d-47bf-a372-f07ce3e7253d&width=256" height="28" />
+      </a><br/>
+      <strong>Blackhole</strong><br/>
+      <img src="https://img.shields.io/badge/-$100M%2B_TVL-5924e1?style=flat" />
+    </td>
   </tr>
 </table>
 
@@ -76,13 +83,17 @@ and many more...
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
+| **40** | **[LayerZero - TempoOFTWrapper](https://layerzero.network/)** | **OFT, Fee-Wrapping, Wrapper -  [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | Soon | February 2022 | [Paladin Security](https://paladinsec.co/) |
+| **48** | **[LayerZero - Stargate V2 EndpointV2Alt](https://layerzero.network/)** | **Cross-chain, OFT, TIP-20, Bus and Taxi Modes - [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | Soon | January 2022 | [Paladin Security](https://paladinsec.co/) |
+| **47** | **[Blackhole JIT - Algebra](https://blackhole.xyz/)** | **ERC721, Concentrated Liquidity, Position Manager** | Soon | January 2026 | [Paladin Security](https://paladinsec.co/) |
+| 46 | LiquidLaunch | CCA Auction, Uniswap V4, Liquidity Launchpad, Vault, Strategy | Soon | January - February 2026 | [33 Audits](https://www.33audits.xyz/) |
 | **45** | **[Algebra Finance](https://algebra.finance/)** | **Algebra LP pool positions into ERC-721 NFTs with liquidity lock period protection** | Soon | January 2026 | [Paladin Security](https://paladinsec.co/) |
 | 44 | [The Cabal](https://thecabal.xyz/) | Delta-neutral vault using IBC with Echelon, Cross-chain order tracking - [![Move](https://img.shields.io/badge/Move-0366d6?style=flat)](https://www.sui.io/move) | Soon | January 2026 | [SB Security](https://sbsecurity.net/) |
 | 43 | FortuneFi Contracts | Decentralized Perpetual Lottery System built on Base, Yield Generation, Chainlink VRF, NFTs | Soon | December 2025 - January 2026 | [33 Audits](https://www.33audits.xyz/) |
 | **42** | **[Algebra Finance](https://algebra.finance/)** | **AlgebraBasePluginV3’s new Reflex backrun and fee discount integrations** | Soon | December 2025 | [Paladin Security](https://paladinsec.co/) |
 | **41** | **[Ethena Labs](https://ethena.fi/)** | **Hyperliquid Distribution - [![Hyperliquid](https://img.shields.io/badge/Hyperliquid-90ee90?style=flat)](https://app.hyperliquid.xyz/trade)** | Soon | December 2025 | [Paladin Security](https://paladinsec.co/) |
 | 40 | [Tollan Universe - Abstract](https://hub.tollan.io/) | GameFi - Elemental affinities using Proof of Play’s vRNG | [📄]([reports/TollanUniverse-Security-Review.pdf](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/TollanUniverse-Security-Review.pdf)) | December 2025 | [Shieldify Security](https://www.shieldify.org/) |
-| 39 | [Juicebox](https://juicebox.money/) | Uniswap V3 LP Split Hook | Soon | December 2025 | - |
+| 39 | [Juicebox - Second Audit](https://juicebox.money/) | Uniswap V3 LP Split Hook | Soon | December 2025 | - |
 | 38 | [Juicebox](https://juicebox.money/) | Uniswap V4 Hook | Soon | December 2025 | - |
 | 37 | [Abster](https://www.abster.xyz/) | GameFi - [![Abstract](https://img.shields.io/badge/Abstract-a8e768?style=flat)](https://www.abs.xyz/) | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
 | 36 | [Colb Finance - Liquids](https://www.colb.finance/) | RWAs, Pre-IPO, Liquids	 | Soon | November 2025 | [Shieldify Security](https://www.shieldify.org/) |
