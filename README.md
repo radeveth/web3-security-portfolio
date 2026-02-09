@@ -83,8 +83,8 @@ and many more...
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| **49** | **[LayerZero - TempoOFTWrapper](https://layerzero.network/)** | **OFT, Fee-Wrapping, Wrapper -  [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | February 2022 | [Paladin Security](https://paladinsec.co/) |
-| **48** | **[LayerZero - Stargate V2 EndpointV2Alt](https://layerzero.network/)** | **Cross-chain, OFT, TIP-20, Bus and Taxi Modes - [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | January 2022 | [Paladin Security](https://paladinsec.co/) |
+| **49** | **[LayerZero - TempoOFTWrapper](https://layerzero.network/)** | **OFT, Fee-Wrapping, Wrapper -  [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | February 2026 | [Paladin Security](https://paladinsec.co/) |
+| **48** | **[LayerZero - Stargate V2 EndpointV2Alt](https://layerzero.network/)** | **Cross-chain, OFT, TIP-20, Bus and Taxi Modes - [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
 | **47** | **[Blackhole JIT - Algebra](https://blackhole.xyz/)** | **ERC721, Concentrated Liquidity, Position Manager** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
 | 46 | LiquidLaunch | CCA Auction, Uniswap V4, Liquidity Launchpad, Vault, Strategy | private | January - February 2026 | [33 Audits](https://www.33audits.xyz/) |
 | **45** | **[Algebra Finance](https://algebra.finance/)** | **Algebra LP pool positions into ERC-721 NFTs with liquidity lock period protection** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
