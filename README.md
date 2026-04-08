@@ -83,11 +83,17 @@ and many more...
 
 | **Id** | **Protocol** | **📝 Description** | **🔗 Report link** | **📅 Date** | **💼 Provider** |
 | --- | --- | --- | --- | --- | --- |
-| **49** | **[LayerZero - TempoOFTWrapper](https://layerzero.network/)** | **OFT, Fee-Wrapping, Wrapper -  [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | February 2026 | [Paladin Security](https://paladinsec.co/) |
-| **48** | **[LayerZero - Stargate V2 EndpointV2Alt](https://layerzero.network/)** | **Cross-chain, OFT, TIP-20, Bus and Taxi Modes - [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
-| **47** | **[Blackhole JIT - Algebra](https://blackhole.xyz/)** | **ERC721, Concentrated Liquidity, Position Manager** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
-| 46 | LiquidLaunch | CCA Auction, Uniswap V4, Liquidity Launchpad, Vault, Strategy | private | January - February 2026 | [33 Audits](https://www.33audits.xyz/) |
-| **45** | **[Algebra Finance](https://algebra.finance/)** | **Algebra LP pool positions into ERC-721 NFTs with liquidity lock period protection** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
+| 55 | [LSteak Protocol](https://www.lsteak.app/) | BPT-Anchored LST, Zone-Based Routing, Bond + Hedge Reserve, Yield Distribution, Staking Wrapper | private | March 2026 | [33 Audits](https://www.33audits.xyz/) |
+| 54 | BuilDeFi.Win - [X](https://x.com/BuilDeFi_Win), [Docs](https://docs.buildefi.win/) | Uniswap V4 Hook, Fair Launch, ERC4626 Staking, Aave Integration, NFT, CTO Mechanism | private | February - March 2026 | [CD Security](https://cdsecurity.site/) |
+| **53** | **[Blackhole](https://blackhole.xyz/)** | **DEX Router, AMM + Concentrated Liquidity, Zap, CL Position Rebalancing, NFT Staking/Farming, LayerZero Bridge Fee Wrapper** | private | February 2026 | [Paladin Security](https://paladinsec.co/) |
+| 52 | [MarketDAO](https://marketdao.dev/) | ERC1155 Governance, DAO Treasury, Token Vesting | private | February 2026 | [Hashlock](https://hashlock.com/) |
+| 51 | [Vrine Network](https://vrine.network/public/public-dashboard) | ERC20, Uniswap V2, Auto-Liquidity | private | February 2026 | [Hashlock](https://hashlock.com/) |
+| **50** | **[LayerZero - TempoOFTWrapper](https://layerzero.network/)** | **OFT, Fee-Wrapping, Wrapper -  [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | February 2026 | [Paladin Security](https://paladinsec.co/) |
+| **49** | **[LayerZero - Stargate V2 EndpointV2Alt](https://layerzero.network/)** | **Cross-chain, OFT, TIP-20, Bus and Taxi Modes - [![Tempo chain](https://img.shields.io/badge/Tempo%20Chain-111827?style=flat)](https://tempo.xyz/)** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
+| **48** | **[Blackhole JIT - Algebra](https://blackhole.xyz/)** | **ERC721, Concentrated Liquidity, Position Manager** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
+| 47 | LiquidLaunch | CCA Auction, Uniswap V4, Liquidity Launchpad, Vault, Strategy | private | January - February 2026 | [33 Audits](https://www.33audits.xyz/) |
+| **46** | **[Algebra Finance](https://algebra.finance/)** | **Algebra LP pool positions into ERC-721 NFTs with liquidity lock period protection** | private | January 2026 | [Paladin Security](https://paladinsec.co/) |
+| 45 | [The Cabal](https://thecabal.xyz/) | LST Wrapper for Strat Protocol - [![Move](https://img.shields.io/badge/Move-0366d6?style=flat)](https://www.sui.io/move) | private | January 2026 | [SB Security](https://sbsecurity.net/) |
 | 44 | [The Cabal](https://thecabal.xyz/) | Delta-neutral vault using IBC with Echelon, Cross-chain order tracking - [![Move](https://img.shields.io/badge/Move-0366d6?style=flat)](https://www.sui.io/move) | private | January 2026 | [SB Security](https://sbsecurity.net/) |
 | 43 | FortuneFi Contracts | Decentralized Perpetual Lottery System built on Base, Yield Generation, Chainlink VRF, NFTs | private | December 2025 - January 2026 | [33 Audits](https://www.33audits.xyz/) |
 | **42** | **[Algebra Finance](https://algebra.finance/)** | **AlgebraBasePluginV3’s new Reflex backrun and fee discount integrations** | private | December 2025 | [Paladin Security](https://paladinsec.co/) |
