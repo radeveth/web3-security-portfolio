@@ -1,4 +1,4 @@
-# Radev's Smart Contract Security Portfolio
+# Radev's Smart Contract Security Portfolio | [![Solidity](https://img.shields.io/badge/Solidity-2b247c?style=flat)](https://www.soliditylang.org/) [![Rust](https://img.shields.io/badge/Rust-dea584?style=flat)](https://www.rust-lang.org/) [![Move](https://img.shields.io/badge/Move-0366d6?style=flat)](https://www.sui.io/move)
 
 ## ✅ Highlighted Audits:
 
