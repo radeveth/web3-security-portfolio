@@ -49,7 +49,14 @@
       <img src="http://img.paragraph.com/cdn-cgi/image/format=auto,width=96,quality=90/https://storage.googleapis.com/papyrus_images/c8eb5f4ec99c26f75554288a166754df4e435be2b9031a18d20f91c542498cb4.png" height="28" />
       </a><br/>
       <strong>Spectra</strong><br/>
-      <img src="https://img.shields.io/badge/-$100M+_TVL-5924e1?style=flat" />
+      <img src="https://img.shields.io/badge/-$260M+_TVL_ALTH-5924e1?style=flat" />
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.hydrex.fi/" target="_blank">
+        <img src="https://www.hydrex.fi/favicon.ico" height="28" />
+      </a><br/>
+      <strong>Hydrex</strong><br/>
+      <img src="https://img.shields.io/badge/-$23M%2B_TVL-5924e1?style=flat" />
     </td>
     <td align="center">
       <a href="https://juicebox.money/" target="_blank">
